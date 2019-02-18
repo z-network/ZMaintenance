@@ -1,4 +1,4 @@
 name: ZMaintenance
 author: iMPDevMC
 version: 0.1
-main: gq.devmc.maintenance.Main5
+main: gq.devmc.maint.Main5
